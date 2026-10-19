@@ -395,4 +395,4 @@ openair-gnb  | UE 1df5: LCID 1,2,4, goodput DL  453.42 UL    3.10 Mbps
 </details>  
 <br>
 
-![UE_connection](images/UE_connection.png)
+**NOTE**: A small offset between the PUSCH counters is observed in this setup. The offset remains stable over time, with no accumulating drift, and does not affect operation.
